@@ -14,7 +14,7 @@ The portfolio maintains a robust **86.18% success rate**, with "Good Loans" gene
 ![Risk Analysis](Structural_Risk_Analysis_Dashboard.png)
 *Analysis of loan purposes, repayment performance, and interest rate trends by term.*
 
-## 🛠️ Tech Stack
+##  Tech Stack
 Language: Python
 Libraries: Pandas, Matplotlib, Seaborn, NumPy
 Environment: Jupyter Notebook / VS Code

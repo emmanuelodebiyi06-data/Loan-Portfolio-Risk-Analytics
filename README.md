@@ -7,7 +7,7 @@ The portfolio maintains a robust **86.18% success rate**, with "Good Loans" gene
 
 #Key Visualizations
 # 1. Unified Portfolio Summary
-![Portfolio Summary](Unified_Green_Summary_Dashboard.png)
+![Portfolio Summary](Final_Loan_Dashboard.png)
 *High-level overview of KPIs, monthly disbursement trends, and risk distribution.*
 
 # 2. Structural Risk Deep-Dive

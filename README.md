@@ -11,7 +11,7 @@ The portfolio maintains a robust **86.18% success rate**, with "Good Loans" gene
 *High-level overview of KPIs, monthly disbursement trends, and risk distribution.*
 
 # 2. Structural Risk Deep-Dive
-![Risk Analysis](Unified_Green_Structural_Analysis.png)
+![Risk Analysis](Structural_Risk_Analysis_Dashboard.png)
 *Analysis of loan purposes, repayment performance, and interest rate trends by term.*
 
 ## 🛠️ Tech Stack

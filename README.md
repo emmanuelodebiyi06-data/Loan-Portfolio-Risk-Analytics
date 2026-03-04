@@ -1,4 +1,4 @@
-# Loan-Portfolio-Risk-Analytics
+# Loan-Portfolio-Risk-Analytics using PYTHON
 This project provides a comprehensive data-driven analysis of a loan portfolio containing over 38,000 applications. The primary objective was to evaluate portfolio health, identify risk hierarchies across different demographics, and visualize repayment performance using Python.
 
 #Dataset Summary
